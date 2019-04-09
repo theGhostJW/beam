@@ -1,5 +1,7 @@
 # Beam: a type-safe, non-TH Haskell relational database library and ORM
 
+Deprecated. in favor of [beam-core](https://hackage.haskell.org/package/beam-core)
+
 [![Build status](https://api.travis-ci.org/tathougies/beam.svg?branch=master)](https://travis-ci.org/tathougies/beam)
 
 If you use beam commercially, please consider a donation to make this project possible: https://liberapay.com/tathougies
